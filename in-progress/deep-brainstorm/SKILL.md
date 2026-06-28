@@ -28,4 +28,4 @@ Append each user decision to the `# Decision Log` with shell `>>`, so edit-tool 
 
 Keep grilling until ~3 questions remain and they're independent — their answers won't shift no matter how the others resolve. That's the 85% mark: it counts independent unknowns, not a vibe.
 
-Then fire a lightning round — the final 3 questions at once. Offer to fan each out to a blind subagent for adversarial assessment, blind to each other so they challenge assumptions the main thread still holds.
+Then fire a lightning round — the final 3 questions at once. Afterwards offer to fan each to a subagents for fresh eyes adversarial assessment.
