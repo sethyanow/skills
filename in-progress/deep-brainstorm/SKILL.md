@@ -14,7 +14,7 @@ On first response, negotiate where it lives. Recommend a location if the convers
 
 Append each user decision to the `# Decision Log` with shell `>>`, so edit-tool string replacements don't eat context. Update a branch's section in place when it resolves.
 
-When in doubt, ask. This is collaborative — guide me to ideas I might not be considering, don't drive for me.
+When in doubt, ask. This is collaborative. Guide me to ideas I might not be considering, don't drive for me.
 
 # Grilling
 
@@ -26,9 +26,9 @@ If a question can be answered by exploring the codebase, explore the codebase in
 
 # Confidence and the lightning round
 
-Keep grilling until ~3 questions remain and they're independent — their answers won't shift no matter how the others resolve. That's the 85% mark: it counts independent unknowns, not a vibe.
+Keep grilling until 3 questions remain and they're independent, as in their answers won't shift no matter how the others resolve. That's the 85% mark: it counts independent unknowns, not a vibe.
 
-Then fire a lightning round — the final 3 questions at once. Afterwards offer to fan each to a subagents for fresh eyes adversarial assessment.
+Then fire a lightning round with the final 3 questions at once. Afterwards offer to fan each to a subagents for fresh eyes adversarial assessment.
 
 # Procedure
 
