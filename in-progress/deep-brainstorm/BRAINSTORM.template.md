@@ -8,25 +8,15 @@
 - **Scope in:** {{on the table}}
 - **Scope out:** {{parked — see Parking Lot}}
 
-## Confidence
-
-{{date}}: {{N}} open, {{M}} independent. Below the 85% mark.
-
-## Open Questions
-
-1. {{question}} — *open / blocked-on #X / ready-for-lightning*
-
-## Branches
-
-### {{Branch name}}
+## {{Branch name}}
 
 - **Decision:** {{resolved, or open}}
 - **Rationale:** {{one line}}
 - **Dependencies:** {{branches this leans on}}
 
-## Parking Lot
+## Follow Ups
 
-- {{idea}} — *parked because {{reason}}*
+- {{idea}} — *parked because {{user_decided_reason}}*
 
 ---
 
