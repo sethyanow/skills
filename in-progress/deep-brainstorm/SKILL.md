@@ -24,16 +24,18 @@ Ask the questions one at a time, waiting for feedback on each question before co
 
 If a question can be answered by exploring the codebase, explore the codebase instead.
 
+If a question seems confusing or tricky to the user, offer the option of an HTML artifact to illustrate things. If `/show-me` is available, propose invoking it to the user to help them understand things.
+
 # Confidence and the lightning round
 
 Keep grilling until 3 questions remain and they're independent, as in their answers won't shift no matter how the others resolve. That's the 85% mark: it counts independent unknowns, not a vibe.
 
-Then fire a lightning round with the final 3 questions at once. Afterwards offer to fan each to a subagents for fresh eyes adversarial assessment.
+Then fire a lightning round with the final 3 questions at once. Afterwards offer to fan to a subagents for fresh eyes adversarial assessment.
 
 # Procedure
 
 1. Seed BRAINSTORM.md from template (where, when, first log entry)
 2. Grill one question at a time, append decisions in real time to the doc
-3. Resolve branches in-doc as decisions land
+3. Resolve branches in-doc only as major sections land
 4. Gate — three independent unknowns remain
 5. Lightning round — then optional adversarial fan-out

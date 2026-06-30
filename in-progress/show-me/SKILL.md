@@ -1,7 +1,6 @@
 ---
 name: show-me
-description: Generate an HTML artifact to explain what the agent is saying.
-disable-model-invocation: true
+description: Generate an HTML artifact to explain what the agent is saying. Offer when a topic seems confusing to the user.
 ---
 
 Generate an HTML artifact with some nice visuals and details the user can browse through to explore what you're discussing.
